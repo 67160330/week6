@@ -1,6 +1,6 @@
 # ETL Lab Report
 
-Student ID: [ใส่รหัสนิสิตของคุณ]
+Student ID: [67160330]
 Name: Natthachai Deechaiya
 
 ## 1. Data Quality Problems Found
